@@ -7,7 +7,7 @@ This repository contains a collection of C++ code files that implement various d
 To get started, simply clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ashwinimishra24/DSA
 ```
 
 Once you have the repository downloaded, you can navigate to the subdirectory that contains the specific data structure or algorithm you are interested in, and review the code files there. Each code file contains one or more C++ classes or functions that implement the given construct.
