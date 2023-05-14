@@ -16,17 +16,20 @@ Once you have the repository downloaded, you can navigate to the subdirectory th
 
 Here are some of the data structures and algorithms currently available in this repository:
 
-- Array
+- Pattern Printing
+- Function and Array
+- Hash Map
+- Binary Search
+- Sorting Techniques
+- Char Array and Strings
+- Pointer
 - Recursion
 - Backtracking
-- Hash Map
+- OOPs
 - Linked List
 - Stack
 - Queue
-- Binary Search Tree
-- Heap
-- Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
-- Searching Algorithms (Linear Search, Binary Search)
+- Tree
 
 ## Contributing
 
